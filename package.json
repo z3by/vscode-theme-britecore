@@ -1,8 +1,13 @@
 {
-    "name": "vscode-britecore",
+    "name": "vscode-theme-britecore",
     "displayName": "britecore",
     "description": "A BriteCore inspired VSCode theme",
     "version": "0.0.1",
+    "publisher": "z3by",
+    "repository": {
+        "url": "https://github.com/z3by/vscode-theme-britecore",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.43.0"
     },
